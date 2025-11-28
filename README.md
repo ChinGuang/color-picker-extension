@@ -48,7 +48,6 @@ We are actively working on improving the extension. Future updates will include:
 - [ ] Support for **HSL** format.
 - [ ] Color history/Recent picks.
 - [ ] Keyboard shortcuts.
-- [ ] Dark mode support for the popup UI.
 
 ## 📂 Project Structure
 
