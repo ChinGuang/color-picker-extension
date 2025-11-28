@@ -1,4 +1,4 @@
-# [Your Extension Name] 🎨
+# Color Picker 🎨
 
 ![Manifest Version](https://img.shields.io/badge/Manifest-V3-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
